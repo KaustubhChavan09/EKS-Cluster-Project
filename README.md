@@ -1,7 +1,3 @@
-GitHub Repository:
-https://github.com/KaustubhChavan09/EKS-Cluster-using-Terraform.git
-
-https://github.com/gauri17-pro/terraform-jenkins-eks.git
 
 Problem statement:
 How to deploy an EKS cluster using terraform and Jenkins ?
